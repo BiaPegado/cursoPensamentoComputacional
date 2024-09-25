@@ -13,7 +13,7 @@ def pesquisa_binaria(lista_ordenada, item):
     return None
 
 lista_ordenada = [0, 2, 4, 6, 8, 10]
-print(pesquisa_binaria(lista_ordenada, 9))    #None
-print(pesquisa_binaria(lista_ordenada, 0))    #0
-print(pesquisa_binaria(lista_ordenada, 8))    #4
-print(pesquisa_binaria(lista_ordenada, 1))    #None
+print(pesquisa_binaria(lista_ordenada, 9))  #None
+print(pesquisa_binaria(lista_ordenada, 0))  #0
+print(pesquisa_binaria(lista_ordenada, 8))  #4
+print(pesquisa_binaria(lista_ordenada, 1))  #None
