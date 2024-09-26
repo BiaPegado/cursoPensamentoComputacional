@@ -1,15 +1,15 @@
 def pesquisa_binaria(lista_ordenada, item):
-    baixo = 0
-    alto = len(lista_ordenada)-1
-    while baixo <= alto:
-        meio = (baixo+alto)//2
-        chute = lista_ordenada[meio]
+    indice_baixo = 0
+    indice_alto = len(lista_ordenada)-1
+    while indice_baixo <= indice_alto:
+        indice_meio = (indice_baixo+indice_alto)//2
+        chute = lista_ordenada[indice_meio]
         if(chute == item):
-            return meio
+            return indice_meio
         if(chute > item):
-            alto = meio - 1
+            indice_alto = indice_meio - 1
         else:
-            baixo = meio + 1
+            indice_baixo = indice_meio + 1
     return None
 
 lista_ordenada = [0, 2, 4, 6, 8, 10]
