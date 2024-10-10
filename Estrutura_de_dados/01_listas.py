@@ -1,5 +1,3 @@
-
-
 lista_vazia = []
 lista_str = list("macarrão")
 lista_compras = ['arroz, feijão, carne, frango']
