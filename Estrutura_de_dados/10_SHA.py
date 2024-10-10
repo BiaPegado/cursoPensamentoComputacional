@@ -11,5 +11,5 @@ texto = "Senha123"
 texto2 = "senha123"
 valorHash = criptografar(texto)
 valorHash2 = criptografar(texto2)
-print(f"\nO hash SHA-256 da mensagem '{texto}' é: \n{valorHash}")
-print(f"O hash SHA-256 da mensagem '{texto2}' é: \n{valorHash2}\n")
+print(f"O hash SHA-256 da mensagem '{texto}' é: {valorHash}")
+print(f"O hash SHA-256 da mensagem '{texto2}' é: {valorHash2}")
