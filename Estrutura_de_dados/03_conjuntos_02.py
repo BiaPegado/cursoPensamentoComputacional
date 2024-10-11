@@ -2,19 +2,19 @@ lista_compras = {"arroz", "feijão", "macarrão", "maçã", "banana"}
 frutas = {"maçã", "banana"}
 
 uniao = list(lista_compras.union(frutas))
-print(uniao, end="\n")
+print(uniao)
 
 inters = list(lista_compras.intersection(frutas))
-print(inters, end="\n")
+print(inters)
 
 dif = list(lista_compras.difference(frutas))
-print(dif, end="\n")
+print(dif)
 
 subset = lista_compras.issubset(frutas)
-print(subset, end="\n")
+print(subset)
 
 superset = lista_compras.issuperset(frutas)
-print(superset, end="\n")
+print(superset)
 
 dis = lista_compras.isdisjoint(frutas)
-print(dis, end="\n")
+print(dis)
