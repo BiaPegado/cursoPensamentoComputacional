@@ -1,4 +1,4 @@
-# Curso de Pensamento Computacional
+# Curso de Pensamento Computacional e Estrutura de dados
 
 ## Descrição
 Este curso oferece uma introdução ao pensamento computacional, com foco em estruturas de dados fundamentais e algoritmos. Ao longo de cinco aulas, abordaremos desde conceitos básicos até técnicas avançadas como pesquisa binária, recursão e MapReduce.
