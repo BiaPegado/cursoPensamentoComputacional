@@ -6,11 +6,11 @@ Este curso oferece uma introdução ao pensamento computacional, com foco em est
 ## Aulas
 As aulas ocorrerão às **Segundas e Quartas às 19h**, com a seguinte programação:
 
-**28/10** - Introdução e Pensamento computacional
-**30/10** - Algoritmos, listas, tuples, conjuntos e dicionários
-**04/11** - Pesquisa binária, arrays e listas encadeadas
-**06/11** - Recursão, grafos e pesquisa em largura
-**11/11** - Árvores, MapReduce e SHA
+- **28/10** - Introdução e Pensamento computacional
+- **30/10** - Algoritmos, listas, tuples, conjuntos e dicionários
+- **04/11** - Pesquisa binária, arrays e listas encadeadas
+- **06/11** - Recursão, grafos e pesquisa em largura
+- **11/11** - Árvores, MapReduce e SHA
 
 ## Estrutura do Repositório
 
