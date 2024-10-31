@@ -11,6 +11,3 @@ print(tupla)    #('carro', 'moto', 'barco')
 print(tupla2)   #('Brasil',)
 print(tupla3)   #Brasil
 print(tupla4)   #('b', 'a', 'n', 'a', 'n', 'a')
-
-
-
