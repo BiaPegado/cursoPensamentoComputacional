@@ -1,6 +1,5 @@
 #Nó da lista
 class Node:
-
     def __init__(self, valor):
         self.valor = valor
         self.next = None
@@ -23,6 +22,7 @@ class ListaEncadeada:
         
         node_atual = self.head
 
+        # Percorre a lista
         while node_atual.next:
             node_atual = node_atual.next
 
