@@ -1,4 +1,4 @@
-# Para rodar: python 09_MapReduce_01.py input.txt
+# Para rodar: python 13_MapReduce_01.py input.txt
 from mrjob.job import MRJob
 import re
 

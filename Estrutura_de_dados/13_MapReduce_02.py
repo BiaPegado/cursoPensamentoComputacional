@@ -1,4 +1,4 @@
-#Para rodar: python 09_MapReduce_02.py empresas.csv
+#Para rodar: python 13_MapReduce_02.py empresas.csv
 
 from mrjob.job import MRJob
 
